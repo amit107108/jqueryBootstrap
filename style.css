@@ -572,6 +572,14 @@ header .navbar-toggler {
 .contact-image img {
     width: 60%;
 }
+.contact-project {
+    background-color: rgb(246, 251, 255);;
+    margin: 5px;
+    padding: 10px;
+}
+.contact-project p {
+    font-size: 16px;
+}
 
 
 
